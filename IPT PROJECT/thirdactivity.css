@@ -1,0 +1,32 @@
+body{
+		background-image:url("https://wallpapercave.com/dwp1x/wp4960699.jpg") ;
+		background-repeat: no-repeat;
+		background-size: cover;
+		font-size: larger;
+		border-style: double;
+	}
+h1{
+		color: #183c28;
+		text-align: center;
+		border-style:dotted;
+		border-color:#ffffff;
+	}
+	
+img{
+		border-radius: 50%;
+		border-style: dotted;
+		border-color:#ffffff;
+	}
+
+p{
+		background-color:#ffffff;
+		opacity:50%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:center;
+		color:#040f0f;
+	}
+
+h2:hover{background-color:bebfc4; transform:scale(1.1);}
+p:hover{background-color:#bebfc4; transform:scale(1.1);}

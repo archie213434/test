@@ -1,0 +1,157 @@
+body{
+		background-image:url("https://wallpapercave.com/dwp1x/wp4960699.jpg") ;
+		background-repeat: no-repeat;
+		background-size: cover;
+		font-size: larger;
+		border-style: double;
+	}
+h1{
+		font-size:50px;
+		background-color:#183c28;
+		opacity:70%;
+		color: #ffffff;
+		margin-left:200px;
+		margin-right:200px;
+		text-align: center;
+		border-style:dotted;
+		border-color:#ffffff;
+	}
+#ha{
+		background-color:#ffffff;
+		opacity:65%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:center;
+		padding:3px;
+		color:#000000;
+	}
+#hb{
+		background-color:#ffffff;
+		opacity:65%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:center;
+		font-size:30px;
+		padding:3px;
+		color:#000000;
+	}
+h4{
+		background-color:#ffffff;
+		opacity:70%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:center;
+		color:#000000;
+	}
+img{
+		border-radius: 50%;
+		border-style: dotted;
+		border-color:#ffffff;
+	}
+.center{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+p{
+		background-color:#ffffff;
+		opacity:70%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:center;
+		color:#000000;
+	}
+#p1{	
+		background-color:#ffffff;
+		opacity:70%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:left;
+		padding:3px;
+		color:#000000;
+	
+	}
+#p2{	
+		background-color:#ffffff;
+		opacity:70%;
+		display:inline;
+		padding-bottom:200px;
+		margin-left:200px;
+		margin-right:0px;
+		border-radius:5px;
+		text-align:left;
+		padding:3px;
+		color:#000000;
+}
+#p3{	
+		background-color:#ffffff;
+		opacity:70%;
+		display:inline;
+		padding-bottom:200px;
+		margin-left:0px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:left;
+		padding:3px;
+		color:#000000;
+}
+#p4{
+		background-color:#ffffff;
+		opacity:70%;
+		margin-left:200px;
+		margin-right:200px;
+		border-radius:5px;
+		text-align:center;
+		padding:3px;
+		color:#000000;
+}
+
+.button{
+		background-color: #183c28;
+		border: none;
+		color: #ffffff;
+		opacity:70%;
+		height:70px;
+		width:70px;
+		padding:0px;
+		font-size: 16px;
+		position: fixed;	
+		bottom: -4px;
+		right: 10px;
+		cursor: pointer;
+	}
+.button1{
+		background-color: #183c28;
+		border: none;
+		border-radius: 12px;
+		color: #ffffff;
+		opacity:70%;
+		height:70px;
+		width:70px;
+		padding:0px;
+		font-size: 15px;
+		margin: 10px;
+		cursor: pointer;
+		z-index:-1
+	
+	}
+ion-icon{
+		font-size: 64px;
+	}
+table{
+		margin: 10px 200px;
+}
+#hr1{
+	visibility:hidden;
+}
+.button1:hover{background-color: #ffffff; color:#183c28;}
+.button:hover{background-color: #ffffff; color:#183c28;}
+h2:hover{transform:scale(1.1);}
+h4:hover{color:#ffffff; background-color:#000000;}
+p:hover{color:#38d16f; background-color:#183c28;}
+p1:hover{color:#38d16f; background-color:#183c28;}
